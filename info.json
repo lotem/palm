@@ -1,7 +1,7 @@
 {
     "manufacturer": "TIS",
-    "keyboard_name": "五指刪",
-    "maintainer": "居戎氏",
+    "keyboard_name": "palm",
+    "maintainer": "lotem",
     "bootloader": "rp2040",
     "diode_direction": "COL2ROW",
     "features": {
