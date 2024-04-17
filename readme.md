@@ -2,7 +2,7 @@
 
 手體工程學直列分體鍵盤
 
-法寶名曰：五指刪
+法寶名曰　五指刪〈[韻文](story.md#韻文)〉
 
 * 原作者：TIS
 * 持寶人：[居戎氏](https://github.com/lotem)
@@ -11,7 +11,17 @@
 今改爲外置主控盒子，用小麪包板、杜邦綫、積木外殼搭建，
 RP2040 SuperMini 主控通過彩排綫連接兩隻手掌的筋脈。
 
-RP2040 主控引脚定义：
+圖　五指刪
+
+![](images/palm-keyboard.jpg)
+
+圖　佛祖控／覆盆老祖
+
+![](images/buddha-controller.jpg)
+
+〈[圖集](story.md#圖集)〉
+
+RP2040 引脚定义
 
  - 1 ~ 5 行 : GP0 ~ GP4
  - 右手 1 ~ 6 列 : GP5 ~ GP10
